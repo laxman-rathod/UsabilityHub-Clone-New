@@ -24,14 +24,14 @@ Welcome to the UsabilityHub Clone project! This open-source web application is a
 - **Responsive Design**: The application is designed to be responsive, providing a consistent experience on various devices.
 
 # Demo
-You can view a live demo of the UsabilityHub Clone at [Demo URL](https://rathodlucky12.github.io/UsabilityHub-Clone).
+You can view a live demo of the UsabilityHub Clone at [Demo URL](https://laxman-rathod.github.io/UsabilityHub-Clone-New/).
 
 # Installation
 To run the UsabilityHub Clone on your local machine, simply clone the repository and open the HTML files in your web browser:
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://rathodlucky12.github.io/UsabilityHub-Clone.git
+   https://github.com/laxman-rathod/UsabilityHub-Clone-New.git
    ```
 
 2. Navigate to the project directory and open the HTML files in your preferred web browser.
